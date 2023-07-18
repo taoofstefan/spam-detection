@@ -1,4 +1,5 @@
-Email Spam Detection Project
+**Email Spam Detection Project**
+
 The code represents a text classification project focused on email spam detection. It utilizes the Enron email dataset, a widely used benchmark for spam detection.
 
 The project involves the following steps:
